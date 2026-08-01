@@ -82,25 +82,36 @@ For BOGOF, considered quantity_sold(after_promo) as total units shipped includin
 ![Product & Category Analysis Dashboard](assets/product_category_dashboard.png)
 
 ### Business Insights & Impact
-Store Performance Analysis -
+### Store Performance Analysis -
 
-
-
-Store "STMYS-1" in Mysuru performed exceptionally well during promotional period  achieving  an Incremental Revenue of "3.64M" ,followed by STCHE-4 in Chennai  with an Incremental Revenue  of  "3.54M".
-
-Store "STMLR-0" in Mangalore underperformed during the promotional period, selling only  1952 items .This is  followed by stores STVSK-3 & STVSK- 4  in Visakhapatnam  which also  recorded low sales.
-
-Bengaluru , Chennai & Hyderabad recorded highest promotional revenue among all cities, generating  26.76M , 21.18M & 15.25M respectively.
-
-Mangalore, Vijayawada & Trivandrum recorded lowest promotional revenue among all cities, generating  3.37M , 2.86M & 2.35M respectively.
-
-
+- **Store "STMYS-1" in Mysuru performed exceptionally well during promotional period  achieving  an Incremental Revenue of "3.64M" ,followed by STCHE-4 in Chennai  with an Incremental Revenue  of  "3.54M"**.
+- **Store "STMLR-0" in Mangalore underperformed during the promotional period, selling only  1952 items .This is  followed by stores STVSK-3 & STVSK- 4  in Visakhapatnam  which also  recorded low sales**.
+- **Bengaluru , Chennai & Hyderabad recorded highest promotional revenue among all cities, generating  26.76M , 21.18M & 15.25M respectively**.
+- **Mangalore, Vijayawada & Trivandrum recorded lowest promotional revenue among all cities, generating  3.37M , 2.86M & 2.35M respectively**.
 
 Insights: 
+- **Top performing cities have higher number of operational stores compared to  underperforming cities, which could a factor for their strong promotional performance**.
 
-Top performing cities have higher number of operational stores compared to  underperforming cities, which could a factor for their strong promotional performance.
+### Promotion Type Analysis -
+
+- **The Diwali Campaign performed exceptionally well ,generating 106.32M revenue during promotional period**.
+- **The Top two Promotions by revenue are 500 cashback, which generated  " 91.05M" followed by BOGOF with "21.77M" in revenue**.
+- **The Bottom two promotions by units sold  during promotional period were"50% off" , with  6,931 units sold , and "25% off" which recorded  negative value of 5,717 units , indicating the number of units sold during promotions are lower than the number of units sold before promotion**.
+
+Insights: 
+ - **The Discount based promotions (25% off ,33% off ,50% off ) generated a negative net revenue of "-5.46M" , while BOGOF are 500 cashback promotions delivered stronger results , with revenue nearly doubled**.
 
 
+### Product & Category Analysis -
+
+ - **Combo1 saw the most significant lift in sales during promotional period making an revenue of '$157.95M" with an incremental revenue of  "$91.05M" followed by Home appliances generating a incremental revenue of "$7.87M". Personal care category is losing its revenue with IR of "-0.85M" marking it as underperforming category during promotional period**.
+ - **Based on the correlation matrix , its hard to determine which promotion  performed well across the product categories because  the promotional offers are not evenly distributed . For example, top performing promotions "500 cashback" and "BOGOF" were never offered for  "Personal care" category. Similarly  "Combo1" category was promoted with the "500 cashback" offer and was not given any discount based promotions(25% off,33% off or 50% off).As a result , the uneven distribution of  promotional offers across product categories limits the ability to compare promotion effectiveness by product category**.
+
+### Recommendations for Next promotional Period-
+
+ - **Prioritize "500 cashback" and "BOGOF" as they delivered highest incremental value and strong sales performance**.
+ - **The promotions based on discounts(25% off, 33% off, & 50% off) should be redesigned with new strategy  and tested across various range of products to evaluate their effectiveness. If the performance is not improved,  replace with loyalty reward program where points earned are redeemed later for discounts or free products**.
+ - **Before finalizing the future promotional strategies , each promotion type should be evenly distributed to broader range of products and tested for the  effectiveness. The uneven distribution of promotions in the current campaign caused the limitation to determine whether the performance were driven by the promotion or the categories to which it is applied**.
 
 **Dashboard Features:**
 
