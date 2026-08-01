@@ -82,7 +82,23 @@ For BOGOF, considered quantity_sold(after_promo) as total units shipped includin
 ![Product & Category Analysis Dashboard](assets/product_category_dashboard.png)
 
 ### Business Insights & Impact
-![Business Insights Dashboard](assets/business_insights_dashboard.png)
+Store Performance Analysis -
+
+
+
+Store "STMYS-1" in Mysuru performed exceptionally well during promotional period  achieving  an Incremental Revenue of "3.64M" ,followed by STCHE-4 in Chennai  with an Incremental Revenue  of  "3.54M".
+
+Store "STMLR-0" in Mangalore underperformed during the promotional period, selling only  1952 items .This is  followed by stores STVSK-3 & STVSK- 4  in Visakhapatnam  which also  recorded low sales.
+
+Bengaluru , Chennai & Hyderabad recorded highest promotional revenue among all cities, generating  26.76M , 21.18M & 15.25M respectively.
+
+Mangalore, Vijayawada & Trivandrum recorded lowest promotional revenue among all cities, generating  3.37M , 2.86M & 2.35M respectively.
+
+
+
+Insights: 
+
+Top performing cities have higher number of operational stores compared to  underperforming cities, which could a factor for their strong promotional performance.
 
 
 
