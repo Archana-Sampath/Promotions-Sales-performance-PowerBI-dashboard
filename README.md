@@ -23,7 +23,7 @@ The business ran five promo types - 25% OFF, 33% OFF, 50% OFF, 500 Cashback, and
 | Power Query        | Data cleaning & Transformation        |
 | DAX                | Business KPI's                        |
 | CSV                | Source Dataset                        |
-| MySQl              | SQL based report generation           |
+| MySQL              | SQL based report generation           |
 
 **Dataset:**
 
@@ -67,8 +67,8 @@ For BOGOF, considered quantity_sold(after_promo) as total units shipped includin
 - **Revenue(before_promo)**
 - **Revenue(after_promo)**
 - **Quantity sold(before_promo)**
-- **Quantity sol(after_promo)**
-- **Incremnetal Revenue(IR)**
+- **Quantity sold(after_promo)**
+- **Incremental Revenue(IR)**
 - **Incremental units sold(ISU)**
 
 **Dashboard preview- Store Analysis**
